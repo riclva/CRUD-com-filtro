@@ -1,0 +1,26 @@
+#painel {
+	border: none;
+    border-bottom: none;
+	margin-top: 2em;
+	height: 25em;
+	width: 80%;
+}
+
+.painel_2 {
+	border: none;
+    border-bottom: none;
+	margin-top: 2em;
+	height: 25em;
+	width: 80%;
+}
+
+.titulos {
+	margin-left: 1em;
+	color: gray;
+	
+	margin-bottom: 1em;
+}
+
+.cardy {
+	border: 1px red solid;
+}
